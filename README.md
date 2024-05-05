@@ -1,16 +1,46 @@
-### Hi there 👋
+# Jerrel Kinkead's Portfolio
 
-<!--
-**Jerrel-Kinkead/Jerrel-Kinkead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! Here you'll find a collection of projects I've worked on and my skills.
+## Projects
 
-Here are some ideas to get you started:
+### Project 1: [Project Name](link-to-project)
+- Description: Brief description of the project and its purpose.
+- Technologies: List of technologies used in the project.
+- [Link to GitHub Repository](link-to-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project 2: [Project Name](link-to-project)
+- Description: Brief description of the project and its purpose.
+- Technologies: List of technologies used in the project.
+- [Link to GitHub Repository](link-to-repo)
+
+### Project 3: [Project Name](link-to-project)
+- Description: Brief description of the project and its purpose.
+- Technologies: List of technologies used in the project.
+- [Link to GitHub Repository](link-to-repo)
+
+## Skills
+
+- Programming Languages: List of programming languages you're proficient in.
+- Web Development: List of web development technologies/frameworks you're familiar with.
+- Databases: List of databases you have experience with.
+- Other Skills: Any other relevant skills you want to highlight.
+
+## Education
+
+- [Degree Name](link-to-degree), University Name, Year of Graduation
+- Brief description of your educational background.
+
+## Work Experience
+
+- [Job Title](link-to-job), Company Name, Dates of Employment
+- Brief description of your role and responsibilities.
+
+## Contact Information
+
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile]([(https://www.linkedin.com/in/jerrel-kinkead-72084a21a/]))
+- Website: [Your Website](link-to-website)
+
+## Additional Information
+
+- Any additional information or achievements you want to highlight.
