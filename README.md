@@ -1,46 +1,46 @@
-# Jerrel Kinkead's Portfolio
+# Jerrel Kinkead's Cybersecurity Portfolio
 
-Welcome to my GitHub portfolio! Here you'll find a collection of projects I've worked on and my skills.
+Welcome to my GitHub portfolio! Here you'll find a collection of cybersecurity projects I've worked on, my skills in various security domains, and my certifications.
+
 ## Projects
 
 ### Project 1: [Project Name](link-to-project)
-- Description: Brief description of the project and its purpose.
-- Technologies: List of technologies used in the project.
+- Description: Brief description of the cybersecurity project and its purpose.
+- Technologies: List of security tools and technologies used.
 - [Link to GitHub Repository](link-to-repo)
 
 ### Project 2: [Project Name](link-to-project)
-- Description: Brief description of the project and its purpose.
-- Technologies: List of technologies used in the project.
+- Description: Brief description of the cybersecurity project and its purpose.
+- Technologies: List of security tools and technologies used.
 - [Link to GitHub Repository](link-to-repo)
 
 ### Project 3: [Project Name](link-to-project)
-- Description: Brief description of the project and its purpose.
-- Technologies: List of technologies used in the project.
+- Description: Brief description of the cybersecurity project and its purpose.
+- Technologies: List of security tools and technologies used.
 - [Link to GitHub Repository](link-to-repo)
 
 ## Skills
 
-- Programming Languages: List of programming languages you're proficient in.
-- Web Development: List of web development technologies/frameworks you're familiar with.
-- Databases: List of databases you have experience with.
-- Other Skills: Any other relevant skills you want to highlight.
+
+## Certifications
+
 
 ## Education
 
-- [Degree Name](link-to-degree), University Name, Year of Graduation
-- Brief description of your educational background.
+- [Degree Name](link-to-degree),CUNY New York City College of Technology, 2025
+  - Description of your educational background in cybersecurity or related field.
 
 ## Work Experience
 
 - [Job Title](link-to-job), Company Name, Dates of Employment
-- Brief description of your role and responsibilities.
+  - Brief description of your role and responsibilities in the cybersecurity domain.
 
 ## Contact Information
 
-- Email: your-email@example.com
-- LinkedIn: [([(https://www.linkedin.com/in/jerrel-kinkead-72084a21a/]))](https://www.linkedin.com/in/jerrel-kinkead-72084a21a/)]
+- Email: jerrel.kinkead@mail.citytech.cuny.edu
+- LinkedIn: https://www.linkedin.com/in/jerrel-kinkead-72084a21a/
 - Website: [Your Website](link-to-website)
 
 ## Additional Information
 
-- Any additional information or achievements you want to highlight.
+- Any additional information or achievements related to cybersecurity that you want to highlight.
