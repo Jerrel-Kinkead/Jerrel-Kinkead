@@ -27,7 +27,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of cybersecurity p
 
 ## Education
 
-- [Degree Name](link-to-degree), CUNY New York City College of Technology, 2025
+- Bachelors of Technology Computer Systems with a focus in Network and Security, CUNY New York City College of Technology, 2025
 
 ## Work Experience
 
