@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of cybersecurity p
 
 
 ## Education: Bachelors of Technology in Computer Systems, CUNY New York City College of Technology, 2025
- -Description: I'm a junior studying Computer Systems with a focus in Network and Security. 
+ - Description: I'm a junior studying Computer Systems with a focus in Network and Security. 
 
 ## Work Experience
 
