@@ -38,7 +38,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of projects I've w
 ## Contact Information
 
 - Email: your-email@example.com
-- LinkedIn: [[Your LinkedIn Profile]([(https://www.linkedin.com/in/jerrel-kinkead-72084a21a/]))](https://www.linkedin.com/in/jerrel-kinkead-72084a21a/)
+- LinkedIn: [([(https://www.linkedin.com/in/jerrel-kinkead-72084a21a/]))](https://www.linkedin.com/in/jerrel-kinkead-72084a21a/)]
 - Website: [Your Website](link-to-website)
 
 ## Additional Information
