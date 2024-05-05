@@ -27,19 +27,16 @@ Welcome to my GitHub portfolio! Here you'll find a collection of cybersecurity p
 
 ## Education
 
-- [Degree Name](link-to-degree),CUNY New York City College of Technology, 2025
-  - Description of your educational background in cybersecurity or related field.
+- [Degree Name](link-to-degree), CUNY New York City College of Technology, 2025
 
 ## Work Experience
 
-- [Job Title](link-to-job), Company Name, Dates of Employment
-  - Brief description of your role and responsibilities in the cybersecurity domain.
+
 
 ## Contact Information
 
 - Email: jerrel.kinkead@mail.citytech.cuny.edu
 - LinkedIn: https://www.linkedin.com/in/jerrel-kinkead-72084a21a/
-- Website: [Your Website](link-to-website)
 
 ## Additional Information
 
